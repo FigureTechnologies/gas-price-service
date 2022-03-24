@@ -1,0 +1,4 @@
+{
+    "gasPrice": ${GAS_PRICE},
+    "gasPriceDenom": "${GAS_PRICE_DENOM}"
+}

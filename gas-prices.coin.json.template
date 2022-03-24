@@ -1,0 +1,4 @@
+{
+    "amount": "${GAS_PRICE}",
+    "denom": "${GAS_PRICE_DENOM}"
+}
