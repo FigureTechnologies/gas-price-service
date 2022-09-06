@@ -1,4 +1,4 @@
-module github.com/provenance-io/coin-json-to-proto
+module github.com/FigureTechnologies/coin-json-to-proto
 
 go 1.17
 

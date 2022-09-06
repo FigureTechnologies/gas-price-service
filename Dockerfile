@@ -12,7 +12,7 @@ FROM nginx:1.21.6-alpine
 ENV GAS_PRICE 19050
 ENV GAS_PRICE_DENOM nhash
 
-LABEL org.opencontainers.image.source=https://github.com/provenance-io/gas-price-service
+LABEL org.opencontainers.image.source=https://github.com/FigureTechnologies/gas-price-service
 
 COPY --from=go /go/bin/coin-json-to-proto /usr/bin/coin-json-to-proto
 
