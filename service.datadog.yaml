@@ -1,9 +1,9 @@
 schema-version: v2
 dd-service: gas-price-service
-team: team-rd
+team: backend-markets-marketplace
 contacts:
 - type: slack
-  contact: https://figure-group.slack.com/archives/C024YJBBBU0
+  contact: https://figure-group.slack.com/archives/C01F4UJQ7D2
 repos:
 - name: GitHub Repo
   provider: github
@@ -11,4 +11,4 @@ repos:
 docs:
 - name: GitHub Team
   provider: github
-  url: https://github.com/orgs/FigureTechnologies/teams/team-rd/members
+  url: https://github.com/orgs/FigureTechnologies/teams/backend-markets-marketplace/members
