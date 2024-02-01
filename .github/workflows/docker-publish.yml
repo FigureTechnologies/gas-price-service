@@ -23,7 +23,7 @@ env:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: figure-linux-standard
     permissions:
       contents: read
       packages: write
